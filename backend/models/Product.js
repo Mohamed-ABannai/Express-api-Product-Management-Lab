@@ -9,7 +9,7 @@ title:{
     trim:true
 },
 description:{
-
+    type:String
 },
 category:{
 type:String,
